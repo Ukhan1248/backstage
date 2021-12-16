@@ -1,5 +1,15 @@
 # @backstage/core-app-api
 
+## 0.2.2
+
+### Patch Changes
+
+- 7927005152: Add `FetchApi` and related `fetchApiRef` which implement fetch, with an added Backstage token header when available.
+- Updated dependencies
+  - @backstage/app-defaults@0.1.3
+  - @backstage/core-plugin-api@0.3.2
+  - @backstage/core-components@0.8.2
+
 ## 0.2.1
 
 ### Patch Changes
